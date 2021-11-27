@@ -5,12 +5,7 @@
   
   <p align=center>
   <a href="https://t.me/nordbearbotdev"><img title="Made in FINLAND" src="https://img.shields.io/badge/MADE%20IN-FINLAND-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-  </p>
 
-  <br>
-  
- 
-<p align=center>
   <a href="https://t.me/nordbearbotdev"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
   <a href="https://t.me/nordbearbotdev"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
   <a href="https://t.me/nordbearbotdev"><img title="Stars" src="https://img.shields.io/github/stars/nordbearbotdev/Death from Above?style=social" ></a>
