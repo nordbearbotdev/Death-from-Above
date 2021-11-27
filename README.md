@@ -9,7 +9,7 @@
 
   <br>
   
-  ###### <p align="center"> L-BOMBER <p align="center">
+  ###### <p align="center"> Death from Above <p align="center">
 <p align=center>
   <a href="https://t.me/nordbearbotdev"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
   <a href="https://t.me/nordbearbotdev"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
