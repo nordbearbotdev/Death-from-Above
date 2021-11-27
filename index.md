@@ -18,9 +18,6 @@
   <a href="https://github.com/nordbearbotdev"><img title="Watching" src="https://img.shields.io/github/watchers/nordbearbotdev/Death from Above?label=Watchers&color=blue&style=flat-square"></a>
  
 
-  ### Development by
-
-Developer / Author: [nordbearbotdev](https://t.me/nordbearbotdev/)
 
 ### <h2 align="center">😈 Follow 😈 </h2>
 <p align="center">
