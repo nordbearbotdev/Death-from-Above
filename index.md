@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+<p align=center>
+  <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
+  
+  <br>
+  
+  <p align=center>
+  <a href="https://t.me/nordbearbotdev"><img title="Made in FINLAND" src="https://img.shields.io/badge/MADE%20IN-FINLAND-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+  </p>
 
-You can use the [editor on GitHub](https://github.com/nordbearbotdev/Death-from-Above/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <br>
+  
+  ###### <p align="center"> L-BOMBER <p align="center">
+<p align=center>
+  <a href="https://t.me/nordbearbotdev"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+  <a href="https://t.me/nordbearbotdev"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
+  <a href="https://t.me/nordbearbotdev"><img title="Stars" src="https://img.shields.io/github/stars/nordbearbotdev/Death from Above?style=social" ></a>
+  <a href="https://github.com/nordbearbotdev/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nordbearbotdev/Death from Above?color=red&style=flat-square"></a>
+  <a href="https://github.com/nordbearbotdev"><img title="Watching" src="https://img.shields.io/github/watchers/nordbearbotdev/Death from Above?label=Watchers&color=blue&style=flat-square"></a>
+ 
+###### <p align="center">*This is official repository maintained by me*
+###### <p align="center"> *[**Telegram**](https://t.me/nordbearbotdev/) ❤️*
+###### <p align="center"> *You can check [TG-Channel](https://t.me/deathfromabovebomber)✌*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  
+  
+  
+ <p align="center">
+  <img src="https://github.com/nordbearbotdev/Death from Above/blob/main/ss.png" alt="ss"/>
+</p>
+  
+  
+# Installation
 
-### Markdown
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```bash
+cd Death from Above
+chmod +x *
+./Death from Above.sh
+```  
+## Installation [Termux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
-```markdown
-Syntax highlighted code block
+```bash
+apt-get install cowsay
+cd Death from Above
+chmod +x *
+cd Core
+cp bomber.py /data/data/com.termux/files/usr/etc/bomber.py
+cd ..
+./Death from Above.sh
+```    
+  
+  ### Development by
 
-# Header 1
-## Header 2
-### Header 3
+Developer / Author: [nordbearbotdev](https://t.me/nordbearbotdev/)
 
-- Bulleted
-- List
+### <h2 align="center">😈 Follow 😈 </h2>
+<p align="center">
+<a href="https://t.me/nordbearbot"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nordbearbotdev/Death-from-Above/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
