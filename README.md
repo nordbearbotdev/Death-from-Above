@@ -1,7 +1,7 @@
 <p align=center>
   <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
   
-  <p align=center>
+
   
   ![logo](https://user-images.githubusercontent.com/85753549/143719767-88cb980f-e9a9-418d-910d-5a6267d2414b.png)
 
