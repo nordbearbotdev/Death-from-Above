@@ -2,7 +2,8 @@
   <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
   
   <br>
-  
+  ![logo](https://user-images.githubusercontent.com/85753549/143719767-88cb980f-e9a9-418d-910d-5a6267d2414b.png)
+
   <p align=center>
   <a href="https://t.me/nordbearbotdev"><img title="Made in FINLAND" src="https://img.shields.io/badge/MADE%20IN-FINLAND-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
   </p>
