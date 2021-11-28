@@ -23,7 +23,7 @@
   
   
  <p align="center">
-  <img src="https://github.com/nordbearbotdev/Death from Above/blob/main/ss.png" alt="ss"/>
+  <img src="https://github.com/nordbearbotdev/Death from Above/blob/main/logo.png" alt="ss"/>
 </p>
   
   
